@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = habibullahkhamza@gmail.com
+	name = Khamza Habibullah
